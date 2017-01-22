@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{B5A1CD74-B40C-246B-F919-B0FF6B9489C7}") = "BasicVRGame", "Assembly-CSharp.csproj", "{C266ECA3-9179-7550-85EE-3F2E2AE6899D}"
+EndProject
+Project("{B5A1CD74-B40C-246B-F919-B0FF6B9489C7}") = "BasicVRGame", "Assembly-CSharp-Editor.csproj", "{5791A0FE-0D93-805B-C8E2-4DE9E5F9336B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{C266ECA3-9179-7550-85EE-3F2E2AE6899D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C266ECA3-9179-7550-85EE-3F2E2AE6899D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C266ECA3-9179-7550-85EE-3F2E2AE6899D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C266ECA3-9179-7550-85EE-3F2E2AE6899D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5791A0FE-0D93-805B-C8E2-4DE9E5F9336B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5791A0FE-0D93-805B-C8E2-4DE9E5F9336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5791A0FE-0D93-805B-C8E2-4DE9E5F9336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5791A0FE-0D93-805B-C8E2-4DE9E5F9336B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
